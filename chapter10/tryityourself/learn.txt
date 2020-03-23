@@ -1,0 +1,5 @@
+in python you can while loops
+in python you can for loops
+in python you can if else
+in python you can class
+in python you can functions
