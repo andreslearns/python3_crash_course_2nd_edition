@@ -1,2 +1,0 @@
-def cisco_switch():
-    
